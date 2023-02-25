@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "JANIZZA KIANNE D. CANDOLE",
+            "Age": "21",
+            "Favorite_Quote": "Whatever you are, be a good one"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001104941@student.buksu.edu.ph"
+        }
+    ]
+}
